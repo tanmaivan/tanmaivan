@@ -77,16 +77,3 @@ As a fresher, I treat my personal projects as production-grade products.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmaivan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaivan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/tanmaivan">
-    <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
